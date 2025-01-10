@@ -47,7 +47,7 @@ Hello! I'm **Bala Chandra C R**, a passionate about working with challenges  I l
 ## 🌐 Connect with Me
 
  CONTACT ME : 9742594291
-- [GitHub](https://github.com/Balu07art)
+- [GitHub](https://github.com/Balu07art/balu.cr-prework)
 - [LinkedIn](https://www.linkedin.com/in/Bala Chandra)
 - 
 ## 🏆 Certifications
