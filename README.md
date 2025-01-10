@@ -1,6 +1,6 @@
 # Hey There! 🫳
 
-![Banner Image](https://github.com/balachandracr/your-repository-name/raw/main/banner.png)
+![Banner Image](https://github.com/Balu07art/your-repository-name/README.MD/main/C:\Users\Bala Chandra.CR\Downloads\blackbackground.png.png)
 
  🧑‍💻 Bala Chandra C R - GitHub Resume
 
