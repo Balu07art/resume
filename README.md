@@ -1,7 +1,5 @@
 # Hey There! 🫳
 
-![Banner Image](https://github.com/Balu07art/your-repository-name/README.MD/main/C:\Users\Bala Chandra.CR\Downloads\blackbackground.png)
-
  🧑‍💻 Bala Chandra C R - GitHub Resume
 
 Hello! I'm **Bala Chandra C R**, a passionate about working with challenges  I love exploring new challenges and building impactful solutions learn continously and build impactfull solutions Here's a snapshot of my professional background, skills, and projects.
