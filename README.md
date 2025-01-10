@@ -22,11 +22,7 @@ Hello! I'm **Bala Chandra C R**, a passionate about working with challenges  I l
 - **Description**: this is piza ordering and real time ordering project 
 - **Key Features**: the main aim of this project is you can select the item from given items
 - **tools has used**: google collab
-
-### [Project 2 Name](https://github.com/balachandracr/project2)
-- **Description**: A brief description of the project. What problem does it solve?
-- **Tech Stack**: React, Node.js, MongoDB, Express
-
+- 
 ### [Project 3 Name](https://github.com/balachandracr/project3)
 - **Description**: A brief description of the project.
 - **Tech Stack**: JavaScript, HTML, CSS, Firebase
@@ -48,7 +44,7 @@ Hello! I'm **Bala Chandra C R**, a passionate about working with challenges  I l
 
  CONTACT ME : 9742594291
 - (https://github.com/Balu07art/balu.cr-prework)
-- [LinkedIn](https://www.linkedin.com/in/BalaChandra C R)
+- [LinkedIn] bala-chandra-c-r-conect
 - 
 ## 🏆 Certifications
 
